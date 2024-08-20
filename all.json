@@ -1,9 +1,9 @@
-[{
-        "thumbnail" : 'https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjU=/video.mkv', 
-        "duration" : '2:17:50', 
-        "profile" : 'https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjg=/video.mkv',
-        "title" : 'Spider-Man: No Way Home',
-        "channelName" : 'Mavel',
-        "views" : '0',
-        "time" : 'December 17, 2021'
-}]
+{
+  "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjU=/video.mkv",
+  "duration": "2:17:50",
+  "profile": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjg=/video.mkv",
+  "title": "Spider-Man: No Way Home",
+  "channelName": "Mavel",
+  "views": "0",
+  "time": "December 17, 2021"
+}
