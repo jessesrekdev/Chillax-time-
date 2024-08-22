@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "title": "Spider-Man: No Way Home",
+      "vj": "VJ Junior",
+      "released": "Action 2021",
+      "movie_id": "01",
+      "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjU=/video.mkv",
+      "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjk=/video.mkv"
+    },
+    {
+      "title": "Inception",
+      "vj": "VJ Max",
+      "released": "July 2010",
+      "movie_id": "02",
+      "poster_url": "https://via.placeholder.com/200x300",
+      "video_src": "https://example.com/inception.mp4"
+    },
+    {
+      "title": "The Dark Knight",
+      "vj": "VJ Johnson",
+      "released": "July 2008",
+      "movie_id": "03",
+      "poster_url": "https://via.placeholder.com/200x300",
+      "video_src": "https://example.com/the-dark-knight.mp4"
+    }
+  ]
+}
