@@ -1,52 +1,76 @@
 {
-  "movies": [
-    {
-      "title": "Spider-Man: No Way Home",
-      "vj": "VJ Junior",
-      "released": "Action 2021",
-      "movie_id": "01",
-      "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjU=/video.mkv",
-      "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjk=/video.mkv"
-    },
-    {
-      "title": "The Divine Fury",
-      "vj": "VJ Isma K",
-      "released": "July 2010",
-      "movie_id": "02",
-      "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzM=/video.mkv",
-      "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzQ=/video.mkv"
-    },
-    {
-      "title": "THE KNIGHT OF SHADOW",
-      "vj": "VJ ICE P",
-      "released": "2019",
-      "movie_id": "03",
-      "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzY=/video.mkv",
-      "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzU=/video.mkv"
-    },
-    {
-      "title": "Bumblebee",
-      "vj":"VJ ICE P",
-      "released":"",
-      "movie_id":"04",
-      "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzc=/video.mkv",
-      "video_src":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzg=/video.mkv"
-    },
-    {
-    "title": "Ghost Rider",
-      "vj":"VJ VJ HEAVY Q",
-      "released":"2007",
-      "movie_id":"05",
-      "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDA=/video.mkv",
-      "video_src":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzk=/video.mkv"
-      },
-      {
-      "title":"Deadpool 2",
-      "vj": "Vj Junior",
-      "released":"2018",
-      "movie_id":"06",
-      "poster_url":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDI=/video.mkv", 
-      "video_src":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDM=/video.mkv"
-      }
-  ]
+    "movies": [
+        {
+            "title": "Spider-Man: No Way Home",
+            "vj": "VJ Junior",
+            "released": "Action 2021",
+            "movie_id": "01",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjU=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjk=/video.mkv"
+        },
+        {
+            "title": "The Divine Fury",
+            "vj": "VJ Isma K",
+            "released": "July 2010",
+            "movie_id": "02",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzM=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzQ=/video.mkv"
+        },
+        {
+            "title": "THE KNIGHT OF SHADOW",
+            "vj": "VJ ICE P",
+            "released": "2019",
+            "movie_id": "03",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzY=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzU=/video.mkv"
+        },
+        {
+            "title": "Bumblebee",
+            "vj": "VJ ICE P",
+            "released": "",
+            "movie_id": "04",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzc=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzg=/video.mkv"
+        },
+        {
+            "title": "Ghost Rider",
+            "vj": "VJ VJ HEAVY Q",
+            "released": "2007",
+            "movie_id": "05",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDA=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzk=/video.mkv"
+        },
+        {
+            "title": "Deadpool 2",
+            "vj": "Vj Junior",
+            "released": "2018",
+            "movie_id": "06",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDI=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDM=/video.mkv"
+        },
+        {
+            "title": "SHANG-CHI AND THE LEGEND OF THE TEN RINGS",
+            "vj": "VJ Junior",
+            "released": "Action Adventure 2021",
+            "movie_id": "07",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDU=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDQ=/video.mkv"
+        },
+        {
+            "title": "No Time to Do",
+            "vj": "VJ Junior",
+            "released": "2021 Action Adventure",
+            "movie_id": "08",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDY=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDc=/video.mkv"
+        },
+        {
+            "title": "Behind Enemy Lines",
+            "vj": "VJ ICE P",
+            "released": "2019",
+            "movie_id": "09",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDk=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDg=/video.mkv"
+        }
+    ]
 }
