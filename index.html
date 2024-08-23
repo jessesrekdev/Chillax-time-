@@ -4,19 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Movie Hub</title>
-		<link rel="stylesheet" href="style.css">
+    <title>🍿Chillax Movie Hub</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <header>
-        <svg id="backButton" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-            <path d="M15.5 5l-1.42-1.42L8.67 9H21v2H8.67l5.41 5.42L15.5 19 6 9.5z" />
-        </svg>
-        <img src="https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzE=/video.mkv" alt="Movie Hub Icon">
-        <input type="text" class="search-bar" placeholder="Search movies...">
-    </header>
+ <header>
+    <img id="backButton" src="https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDE=/video.mkv" alt="Back Button">
+    <img id="logo" src="https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzE=/video.mkv" alt="Movie Hub Icon">
+    <input type="text" id="searchBar" class="search-bar" placeholder="Search movies...">
+</header>
 
     <nav>
         <a href="#home">Home</a>
@@ -28,6 +26,10 @@
     <!-- Video Player -->
     <div id="videoPlayerContainer">
         <video id="videoPlayer" controls></video>
+        <div id="videoInfo" class="movie-info">
+            <h3 id="movieTitle"></h3>
+            <p id="movieDetails"></p>
+        </div>
     </div>
 
     <section id="home">
@@ -40,8 +42,19 @@
     <div class="loading" id="loadingSpinner">
         <p>Movie Loading... <span id="loadingPercentage">1%</span></p>
         <div class="loading-bar">
-			
             <div id="progressBar"></div>
+        </div>
+    </div>
+
+    <!-- Dialog Box -->
+    <div id="telegramDialog" class="dialog-box">
+        <div class="dialog-content">
+            <img src="https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzE=/video.mkv" alt="Movie Hub Icon" class="dialog-logo">
+            <p>Join our Telegram Community to download movies, request movies, and have fun!</p>
+            <div class="dialog-buttons">
+                <a href="https://t.me/+UcG09QLp_zY2NTY8" target="_blank" class="dialog-button telegram-button">Join Channel</a>
+                <button id="dismissButton" class="dialog-button dismiss-button">Already Joined</button>
+            </div>
         </div>
     </div>
 
@@ -49,7 +62,7 @@
         <p>&copy; By <a href="https://t.me/jessesrek">Jesse Srek</a> 😜 Under Development</p>
     </footer>
 
- <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 
 </html>
