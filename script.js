@@ -174,3 +174,12 @@ document.addEventListener("DOMContentLoaded", () => {
         homeSection.classList.remove("blurred");
     });
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+    const videoPlayer = document.getElementById("videoPlayer");
+
+    // Add the "nodownload" option to the video player
+    if (videoPlayer) {
+        videoPlayer.setAttribute("controlsList", "nodownload");
+    }
+});
