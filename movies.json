@@ -39,6 +39,14 @@
       "movie_id":"05",
       "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDA=/video.mkv",
       "video_src":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzk=/video.mkv"
+      },
+      {
+      "title":"Deadpool 2",
+      "vj": "Vj Junior",
+      "released":"2018",
+      "movie_id":"06",
+      "poster_url":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDI=/video.mkv", 
+      "video_src":"https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDM=/video.mkv"
       }
   ]
 }
