@@ -115,8 +115,8 @@ header img {
 
 /* Back button */
 #backButton {
-    width: 35px;
-    height: 35px;
+    width: 50px;
+    height: 50px;
     display: none; /* Initially hidden */
     transition: opacity 0.3s ease-in-out;
     opacity: 0;
