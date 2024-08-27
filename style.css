@@ -87,10 +87,13 @@
 /* Rest of your CSS... */
 /* Body styles */
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #121212;
-    color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #ffffff;
 }
 
 /* Header styles */
@@ -169,15 +172,23 @@ nav a:hover {
     color: #ff9900;
 }
 
+/* Main content container (wrapper) */
+.main-content {
+  flex: 1; /* This makes the main content take up all remaining space */
+  overflow-y: scroll; /* Enable scrolling only for the main content */
+  padding: 20px; /* Add some padding for content */
+}
+
 /* Home section styles */
 #home {
-    padding: 20px;
+    /* ... your home section styles ... */
 }
 
 .movie-list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    overflow: scroll; /* Ensures the movie list can scroll within .main-content */
 }
 
 /* Movie card styles */
@@ -213,11 +224,11 @@ nav a:hover {
 
 /* Footer styles */
 footer {
-    background-color: #1c1c1c;
-    text-align: center;
-    padding: 10px 0;
-    margin-top: 20px;
-    color: #ffffff;
+  background-color: #1c1c1c;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: auto; /* Added margin-top: auto */
+  color: #ffffff;
 }
 
 /* Loading spinner */
@@ -289,3 +300,18 @@ footer {
 a {
     text-decoration-line: none;
 }
+
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Dialog Box Styles */
+.dialog-box {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
