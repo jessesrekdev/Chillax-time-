@@ -87,7 +87,7 @@
 /* Rest of your CSS... */
 /* Body styles */
 body {
-  min-height: 100vh;
+  min-height: 100%;
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -315,3 +315,132 @@ a {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+@media screen and (max-width: 9008px) {
+    header {
+        background-color: #000000;
+        padding: 30px 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: sticky; /* Make the header sticky */
+        top: 0; /* Stick the header to the top of the page */
+        z-index: 1000; /* Ensure the header stays above other elements */
+    }
+
+    header img {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        border: 2px solid #ff9900;
+        object-fit: cover;
+    }
+
+    nav a {
+        margin: 0 10px;
+        padding: 10px 20px;
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bold;
+    }
+    
+    nav a:hover {
+        color: #ff9900;
+    }
+    
+    .search-bar {
+        width: 500px;
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: 1px solid #ff9900;
+        background-color: #333333;
+        color: #ffffff;
+    }
+    
+    .movie-card {
+        background-color: #1c1c1c;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        transition: transform 0.2s ease;
+        margin: 10px;
+    }
+    
+    .movie-card img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .movie-card h3 {
+        padding: 10px;
+        font-size: 16px;
+        margin: 0;
+        color: #ff9900;
+    }
+    
+    .movie-card p {
+        padding: 0 10px 10px;
+        margin: 0;
+        font-size: 14px;
+    }
+    
+    .movie-card:hover {
+        transform: scale(1.05);
+    }
+
+    .movie-list {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        overflow: scroll; /* Ensures the movie list can scroll within .main-content */
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .movie-list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        overflow: scroll; /* Ensures the movie list can scroll within .main-content */
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .movie-list {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        overflow: scroll; /* Ensures the movie list can scroll within .main-content */
+    }
+
+    .search-bar {
+        width: 400px;
+        padding: 8px 18px;
+        border-radius: 5px;
+        border: 1px solid #ff9900;
+        background-color: #333333;
+        color: #ffffff;
+    }
+
+    header img {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        border: 2px solid #ff9900;
+        object-fit: cover;
+    }
+}
+    @media screen and (max-width: 700px) {
+        header {
+            padding: 30px 20px;
+        }
+        .search-bar {
+            width: 300px;
+            padding: 8px 14px;
+            border-radius: 5px;
+            border: 1px solid #ff9900;
+            background-color: #333333;
+            color: #ffffff;
+        }
+    }
