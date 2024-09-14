@@ -154,8 +154,10 @@ header img {
 /* Navigation styles */
 nav {
     background-color: #1c1c1c; /* Added background color to nav */
-    padding: 10px 0; /* Added padding to nav */
     text-align: center;
+    font-size: 11px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     position: sticky; /* Make the nav sticky */
     top: 60px; /* Positioning it below the header */
     z-index: 999; /* Ensure the nav stays above other content */
@@ -437,6 +439,21 @@ a {
         }
         .search-bar {
             width: 300px;
+            padding: 8px 14px;
+            border-radius: 5px;
+            border: 1px solid #ff9900;
+            background-color: #333333;
+            color: #ffffff;
+        }
+    }
+
+    @media screen and (max-width: 500px) {
+        header {
+            padding: 25px 20px;
+        }
+
+        .search-bar {
+            width: 200px;
             padding: 8px 14px;
             border-radius: 5px;
             border: 1px solid #ff9900;
