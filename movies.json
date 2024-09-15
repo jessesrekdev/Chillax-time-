@@ -1,5 +1,13 @@
 {
     "movies": [
+    {
+    "title": "Spider-Man: Far From Home",
+            "vj": "Not Translated",
+            "released": "Action 2022",
+            "movie_id": "0",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvODE=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvODA=/video.mkv"
+    },
         {
             "title": "Spider-Man: No Way Home",
             "vj": "VJ Junior",
@@ -96,7 +104,6 @@
             "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTY=/video.mkv",
             "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTQ=/video.mkv"
         },
-        {
                     "title": "The Witch Subversion",
             "vj": "VJ Emmy",
             "released": "2018 Action",
@@ -104,13 +111,20 @@
             "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNzI=/video.mkv",
             "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNzA=/video.mkv"
         },
-        {
                     "title": "Alice",
             "vj": "VJ JUNIOR",
             "released": "2021 Action",
             "movie_id": "12",
             "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNzQ=/video.mkv",
             "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNzM=/video.mkv"
-        }
+        },
+        {
+        "title": "Babysitter Wanted",
+            "vj": "VJ JUNIOR",
+            "released": "2007 Action",
+            "movie_id": "12",
+            "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNzc=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNzU=/video.mkv"
+       }
     ]
 }
