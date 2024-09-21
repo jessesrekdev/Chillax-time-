@@ -1,5 +1,45 @@
 {
     "movies": [
+        {
+  "title": "Annabelle Comes Home",
+  "vj": "Vj Emmy ",
+  "released": "2019 Horror ",
+  "movie_id": "Annabelle Comes Home",
+  "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAy/video.mkv",
+  "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAx/video.mkv"
+},
+{
+  "title": "ALMOST FRIENDS",
+  "vj": "Vj Junior",
+  "released": "2016 Comedy",
+  "movie_id": "Almostfreinds",
+  "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTU=/video.mkv",
+  "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTM=/video.mkv"
+},
+{
+  "title": "INTERVIEW WITH THE VAMPIRE 1",
+  "vj": "Vj Junior ",
+  "released": "2022 Horror",
+  "movie_id": "INTERVIEW WITH THE VAMPIRE1",
+  "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTc=/video.mkv",
+  "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTY=/video.mkv"
+},
+{
+  "title": "ANIMAL 1",
+  "vj": "VJ MUBA",
+  "released": "2005 action",
+  "movie_id": "ANIMAL 1",
+  "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAw/video.mkv",
+  "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTg=/video.mkv"
+},
+{
+  "title": "ANIMAL 1",
+  "vj": "VJ MUBA",
+  "released": "2008 action ",
+  "movie_id": "ANIMAL 1",
+  "poster_url": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAw/video.mkv",
+  "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTk=/video.mkv"
+},
     {
     "title": "Spider-Man: Far From Home",
             "vj": "Not Translated",
