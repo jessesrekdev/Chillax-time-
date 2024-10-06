@@ -1,0 +1,255 @@
+{
+    "movies": [
+        {
+            "title": "Annabelle Comes Home",
+            "channelName": "Vj Emmy",
+            "released": "2019 Horror",
+            "movie_id": "Annabelle Comes Home",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAy/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAx/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "A Dark Truth",
+            "released": "2012 Action",
+            "movie_id": "Adarktruth",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTA0/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAz/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "ALMOST FRIENDS",
+            "channelName": "Vj Junior",
+            "released": "2016 Comedy",
+            "movie_id": "Almostfreinds",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTU=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTM=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "INTERVIEW WITH THE VAMPIRE 1",
+            "channelName": "Vj Junior",
+            "released": "2022 Horror",
+            "movie_id": "INTERVIEW WITH THE VAMPIRE1",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTc=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTY=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "ANIMAL 1",
+            "channelName": "VJ MUBA",
+            "released": "2005 action",
+            "movie_id": "ANIMAL 1",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAw/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTg=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "ANIMAL 1",
+            "channelName": "VJ MUBA",
+            "released": "2008 action",
+            "movie_id": "ANIMAL 1",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMTAw/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvOTk=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Spider-Man: Far From Home",
+            "channelName": "Not Translated",
+            "released": "Action 2022",
+            "movie_id": "0",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvODE=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvODQ=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Spider-Man: No Way Home",
+            "channelName": "VJ Junior",
+            "released": "Action 2021",
+            "movie_id": "01",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjU=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMjk=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "The Divine Fury",
+            "channelName": "VJ Isma K",
+            "released": "July 2010",
+            "movie_id": "02",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzM=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzQ=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "THE KNIGHT OF SHADOW",
+            "channelName": "VJ ICE P",
+            "released": "2019",
+            "movie_id": "03",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzY=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzU=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Bumblebee",
+            "channelName": "VJ ICE P",
+            "released": "",
+            "movie_id": "04",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzc=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzg=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Ghost Rider",
+            "channelName": "VJ HEAVY Q",
+            "released": "2007",
+            "movie_id": "05",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDA=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvMzk=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Deadpool & Wolverine",
+            "channelName": "VJ Junior",
+            "released": "2024",
+            "movie_id": "06",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTg=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDM=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "SHANG-CHI AND THE LEGEND OF THE TEN RINGS",
+            "channelName": "VJ Junior",
+            "released": "Action Adventure 2021",
+            "movie_id": "07",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDU=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDQ=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "No Time to Die",
+            "channelName": "VJ Junior",
+            "released": "2021 Action Adventure",
+            "movie_id": "08",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDY=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDc=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Behind Enemy Lines",
+            "channelName": "VJ ICE P",
+            "released": "2019",
+            "movie_id": "09",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDk=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDg=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+                {
+            "title": "Behind Enemy Lines",
+            "channelName": "VJ ICE P",
+            "released": "2019",
+            "movie_id": "09",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDk=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNDg=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Warcraft",
+            "channelName": "VJ Junior",
+            "released": "2016",
+            "movie_id": "10",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTE=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTA=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Jurassic World",
+            "channelName": "VJ Emmy",
+            "released": "2015 Action Sci-Fi",
+            "movie_id": "11",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTI=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTM=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "The Matrix Resurrections",
+            "channelName": "VJ Ice P",
+            "released": "2021 Sci-Fi Action",
+            "movie_id": "12",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTY=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTU=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Avengers: Endgame",
+            "channelName": "VJ Junior",
+            "released": "2019 Action Adventure",
+            "movie_id": "13",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTc=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTg=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "The Terminator",
+            "channelName": "VJ Junior",
+            "released": "1984 Action Sci-Fi",
+            "movie_id": "14",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNTk=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNjA=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        },
+        {
+            "title": "Fast & Furious 9",
+            "channelName": "VJ Emmy",
+            "released": "2021 Action Adventure",
+            "movie_id": "15",
+            "thumbnail": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNjE=/video.mkv",
+            "video_src": "https://link.anshbotzone.tech/channel/LTEwMDIxNjUwNTY4MTUvNjI=/video.mkv",
+            "profile": "",
+            "duration": "",
+            "more": ""
+        }
+    ]
+}
